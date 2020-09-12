@@ -1,3 +1,4 @@
+#here the formula applied for tip_percent and tax_percent is given by hacker rank
 meal_coat=float(input())
 tip_percent=int(input())
 tax_percent=int(input())
